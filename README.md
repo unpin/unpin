@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is __German__, I’m a web developer with a strong passion for building modern applications across both frontend and backend. I’m currently seeking an entry-level position or internship where I can expand my skills, contribute to real-world projects, and grow within a collaborative team.
+
+I enjoy working with technologies such as TypeScript, React, Next.js, Node.js, Express, Deno, Fresh, MongoDB, and SQL. I also dabble in Swift and SwiftUI.
 <!--
 **unpin/unpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
