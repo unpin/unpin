@@ -1,8 +1,22 @@
-## Hi there 👋
+# Hi, I'm German 👋
 
-My name is __German__, I’m a web developer with a strong passion for building modern applications across both frontend and backend. I’m currently seeking an entry-level position or internship where I can expand my skills, contribute to real-world projects, and grow within a collaborative team.
+I'm a passionate web developer building modern applications across **frontend and backend**. I love turning ideas into functional, user-friendly web experiences and learning new technologies along the way.  
 
-I enjoy working with technologies such as TypeScript, React, Next.js, Node.js, Express, Deno, Fresh, MongoDB, and SQL. I also dabble in Swift and SwiftUI.
+Currently seeking an **entry-level position or internship** where I can contribute to real-world projects and grow within a collaborative team.  
+
+## Tech Stack
+- **Languages:** TypeScript, JavaScript, Java, Swift
+- **Frontend:** React, Next.js, Vite, Tailwind CSS
+- **Backend:** Node.js, Express, Deno, Fresh
+- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
+- **Mobile / UI:** SwiftUI
+
+## Projects
+- **Vocabulary Learning App:** Built with Vite + React, featuring onboarding, authentication, search, and social features.  
+- **Movie Finder App:** React + Node.js app using external APIs for searching and managing favorites.  
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/germancgn)
 
 ![Codewars](https://github.r2v.ch/codewars?user=unpin&stroke=gold)
 
